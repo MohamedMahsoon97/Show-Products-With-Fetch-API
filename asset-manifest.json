@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Show-Products-With-Fetch-API/static/css/main.0716d923.chunk.css",
+    "main.js": "/Show-Products-With-Fetch-API/static/js/main.bf2675bb.chunk.js",
+    "main.js.map": "/Show-Products-With-Fetch-API/static/js/main.bf2675bb.chunk.js.map",
+    "runtime-main.js": "/Show-Products-With-Fetch-API/static/js/runtime-main.481b7151.js",
+    "runtime-main.js.map": "/Show-Products-With-Fetch-API/static/js/runtime-main.481b7151.js.map",
+    "static/css/2.17ccb772.chunk.css": "/Show-Products-With-Fetch-API/static/css/2.17ccb772.chunk.css",
+    "static/js/2.94b3074b.chunk.js": "/Show-Products-With-Fetch-API/static/js/2.94b3074b.chunk.js",
+    "static/js/2.94b3074b.chunk.js.map": "/Show-Products-With-Fetch-API/static/js/2.94b3074b.chunk.js.map",
+    "index.html": "/Show-Products-With-Fetch-API/index.html",
+    "static/css/2.17ccb772.chunk.css.map": "/Show-Products-With-Fetch-API/static/css/2.17ccb772.chunk.css.map",
+    "static/css/main.0716d923.chunk.css.map": "/Show-Products-With-Fetch-API/static/css/main.0716d923.chunk.css.map",
+    "static/js/2.94b3074b.chunk.js.LICENSE.txt": "/Show-Products-With-Fetch-API/static/js/2.94b3074b.chunk.js.LICENSE.txt",
+    "static/media/AMG.eb1e956f.jpg": "/Show-Products-With-Fetch-API/static/media/AMG.eb1e956f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.481b7151.js",
+    "static/css/2.17ccb772.chunk.css",
+    "static/js/2.94b3074b.chunk.js",
+    "static/css/main.0716d923.chunk.css",
+    "static/js/main.bf2675bb.chunk.js"
+  ]
+}
